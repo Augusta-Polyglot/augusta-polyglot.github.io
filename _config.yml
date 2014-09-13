@@ -1,0 +1,33 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: true
+markdown: kramdown
+title: Augusta Polyglot Group
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Augusta Polyglot Group
+
+
+description: A programming group in Augusta Maine.
+author:
+  name: Augusta Polyglot
+  email: jsturtevant@gmail.com
+  github: Augusta-Polyglot
+  twitter: 
+  pinterest: 
+  linkedin: 
+  bio: A programming group in Augusta Maine.
+  email_md5: 726351295ec82e145928582f595aa3aa
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
