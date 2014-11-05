@@ -6,7 +6,7 @@ exclude: ["README.md"] # files to exclude
 highlighter: true
 markdown: kramdown
 title: Augusta Polyglot Group
-nextmeeting: Thursday - 10/16/2014
+nextmeeting: Thursday - 11/20/2014
 
 defaults:
   -
