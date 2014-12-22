@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Vagrant and VirtualBox
-categories: [outings]
-tags: [outings]
+categories: [Vagrant,  VirtualBox, Meeting]
+tags: [Vagrant,  VirtualBox, Meeting]
 fullview: true
 ---
 
