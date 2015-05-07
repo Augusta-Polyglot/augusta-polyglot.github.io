@@ -1,3 +1,11 @@
+---
+layout: page
+title: What to expect
+categories: [info]
+fullview: true
+---
+
+
 The Augusta Polyglot user group is unique because we focus on hands on activities.  The goal is to not only learn about something new but to gain real experience developing with new technologies.
 
 A typical meeting has the following structure:
